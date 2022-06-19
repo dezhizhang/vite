@@ -10,7 +10,7 @@
     "dev": "vite522"
   },
   "bin": {
-    "vite522":"./bin/vite522.js"
+    "vite522": "./bin/vite522.js"
   },
   "repository": {
     "type": "git",
@@ -30,6 +30,7 @@
     "es-module-lexer": "^0.10.5",
     "react": "^18.2.0",
     "resolve": "^1.22.1",
+    "serve-static": "^1.15.0",
     "vite": "^2.9.12"
   },
   "devDependencies": {
